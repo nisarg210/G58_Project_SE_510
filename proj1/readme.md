@@ -1,9 +1,9 @@
 # Simplii
 
-### *Working Demo*
+### Working Demo
 [![Watch the video](https://img.youtube.com/vi/XECpwY_PQx8/0.jpg)](https://youtu.be/XECpwY_PQx8)
 
-
+## Project1 process and issues faced during the process
 We worked on our assigned projects and faced several challenges while installing and running the project. Eventually, we were successful in running one of the projects. So, herein we will discuss how we managed to overcome the challenges and run the project successfully. On the top of that we will also discuss how the previous team could have improved their code or documentation and make this installation process more efficient.
 
 
@@ -38,3 +38,10 @@ Also keeping documentation up-to-date with each code change or new release is im
 In the Simplii project we found some bugs for example while adding dates in the list the validation is not set. The due date can be earlier than the start date. Also we will improve the navigation bar and try to add new functionalities. Moreover, the recommendation page is static page, we will try to make it dynamic based on users interest. In conclusion, our experience highlighted various challenges that users or future developers may encounter when working on the project. It is worth noting that many of these challenges could have been mitigated or avoided entirely through diligent documentation maintenance. Additionally, conducting thorough testing of the requirements.txt file across different operating systems could have played a crucial role in preventing these issues. For our further implementations we will take care of these problems and try to make the installation and running process smoother.
 
 
+## Rubrics
+
+1. Classroom-Bot: [Project](https://github.com/tanay105/Classroom-Bot) | [Rubrics](https://github.com/nisarg210/G58_Project_SE_510/blob/main/proj1/ClassroomBot.md)
+2. Simplii: [Project](https://github.com/atharva1996/Simplii) | [Rubrics](https://github.com/nisarg210/G58_Project_SE_510/blob/main/proj1/SimpliiRubrics.md)
+3. J-Tracker: [Project](https://github.com/kingan1/application-tracking-system) | [Rubrics](https://github.com/nisarg210/G58_Project_SE_510/blob/main/proj1/ATS.md)
+4. Slash: [Project](https://github.com/rohan22shah/slash-phase3) | [Rubrics](https://github.com/nisarg210/G58_Project_SE_510/blob/main/proj1/Slash.md)
+5. GITS: [Project](https://github.com/bhavesh242/GITS) | [Rubrics](https://github.com/nisarg210/G58_Project_SE_510/blob/main/proj1/GITS_SIMPLIFIED.md)
