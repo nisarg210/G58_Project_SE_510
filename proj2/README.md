@@ -10,7 +10,7 @@
 ![github workflow](https://github.com/nisarg210/Simplii/actions/workflows/close_as_a_feature.yml/badge.svg)
 
 ## Link to Demonstration Video of the Project: 
-https://youtu.be/GecaW1x1y8k
+https://drive.google.com/file/d/1rApSm9mfYJVBAC05cEsd61l3WbkrtomQ/view?usp=sharing
 
 # SIMPLII
 
